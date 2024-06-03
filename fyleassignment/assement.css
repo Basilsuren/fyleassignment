@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  h6 {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  button {
+    font-size: 1rem;
+  }
+  
+  .modal-content {
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  .modal-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .form-group label {
+    font-size: 0.9
+  }  
+  #whatWeDoSlider .col-md-4 {
+    position: relative;
+  }
+  
+  .what-we-do-item {
+    position: relative;
+  }
+  
+  .what-we-do-item img {
+    transition: all 0.3s ease;
+  }
+  
+  .what-we-do-item .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba;
+  }
+ .highlight {
+    border: 2px sloid rgb(138, 135, 135);
+ }
